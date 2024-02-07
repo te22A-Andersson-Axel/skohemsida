@@ -14,3 +14,19 @@ header {
     padding: 1px 0px;
     text-align: center;
 }
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    padding: 35px 0px;
+}
+
+nav a{
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+}
+
+.bilder {
+    background-color: #DED0B6;
+}
